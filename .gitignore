@@ -1,0 +1,30 @@
+# Compiled source files (executables with same name as source)
+lab01/src/lab01
+lab02/src/lab02
+lab03/src/lab03
+lab04/src/lab04
+lab05/src/lab05
+lab06/src/lab06
+lab07/src/lab07
+lab10/src/lab10
+lab11/src/lab11
+lab12/src/lab12
+lab13/src/lab13
+
+# Object files
+*.o
+*.obj
+
+# Temporary / backup files
+*~
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# IDE folders
+.vscode/
+.idea/
